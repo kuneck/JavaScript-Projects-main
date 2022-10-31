@@ -2,7 +2,8 @@ var A = "This is a string.";
 
 window.alert(A);
 
-var B = "As CJ always says, "";
-var C = "\"Here we go again!\"";
+var Thunder = "Thor", Tech = "Iron-man", Cap = "Captain America", Dr = "Hulk" //Defining variables
+var Thunder = Thunder.fontcolor("Blue")
 
-document.write(B + C);
+document.write(Thunder);
+
