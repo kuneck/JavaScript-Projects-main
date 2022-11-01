@@ -1,9 +1,15 @@
-var A = "This is a string.";
 
+//Defining variables
+var A = "Welcome!!";
+var B = "Hello, "  
+var C = "World!"
+
+//Changing variable color
+var B = B.fontcolor("Blue")  
+var C = C.fontcolor("Green")
+
+//set the pop up alert
 window.alert(A);
 
-var Thunder = "Thor", Tech = "Iron-man", Cap = "Captain America", Dr = "Hulk" //Defining variables
-var Thunder = Thunder.fontcolor("Blue")
-
-document.write(Thunder);
-
+//print the text
+document.write(B+C);
