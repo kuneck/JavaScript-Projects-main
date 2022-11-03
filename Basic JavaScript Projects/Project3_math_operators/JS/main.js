@@ -1,6 +1,4 @@
-var x = myFunction(4, 3);
-document.getElementById("demo").innerHTML = x;
-
-function myFunction(a, b){
-  return a * b;
+function addition_function(){
+  var addition = 2 + 2;
+  document.getElementById("Math").innerHTML = "2 + 2 = " + addition;
 }

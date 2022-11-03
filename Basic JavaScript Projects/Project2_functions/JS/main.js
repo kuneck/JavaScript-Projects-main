@@ -21,5 +21,12 @@ function Flash(){
     var D= "Flash."
 
 function answer(){
-    document.getElementById("text").innerHTML = A+B+C+D
+    document.getElementById("text2").innerHTML = A+B+C+D
     }
+
+//setting functions, call and operator
+function thanksFunction() {
+    var thanks = "Hope you had enjoy";
+    thanks += " this minigame!";
+    document.getElementById("concatenate").innerHTML = thanks
+}
