@@ -18,7 +18,7 @@ function Flash(){
     var A = "Thor, ";
     var B = "Spider-Man, "  
     var C = "Namor and "
-    var D= "Flash."
+    var D = "Flash."
 
 function answer(){
     document.getElementById("text2").innerHTML = A+B+C+D
